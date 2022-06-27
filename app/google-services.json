@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "691591055044",
+    "project_id": "moviestreamingadmin-64783",
+    "storage_bucket": "moviestreamingadmin-64783.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691591055044:android:ffda3e3007f3caa68beb91",
+        "android_client_info": {
+          "package_name": "com.example.moviestreamingadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691591055044-kofcg2tv745r8dgfaumpghs2endob2n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMpATVFNcctwRYrTMDG00NY45pmq_Mxqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691591055044-kofcg2tv745r8dgfaumpghs2endob2n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

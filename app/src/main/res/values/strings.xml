@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Streaming Admin</string>
+
+    <string-array name="entries">
+
+        <item>Select Category</item>
+
+    </string-array>
+</resources>
